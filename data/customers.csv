@@ -1,0 +1,9 @@
+customer_id,customer_name,country,local_currency,last_updated
+BM001,The Bermuda Shorts Company,BM,USD,2023-01-31
+BM002,Bermuda Vacations,BM,USD,2023-03-31
+CA001,The Canada Trust,CA,CAD,2023-01-31
+CA002,Canadian Maple Tree Co.,CA,CAD,2023-01-31
+GB001,The Cupcake Company,GB,EUR,2023-01-31
+GB001,The Cupcake Company,GB,GBP,2023-02-02
+PL001,The Babka Company,PL,pln,2023-01-31
+TH001,The Thai Kick Boxing Academy,  TH  ,BHT,2023-01-31

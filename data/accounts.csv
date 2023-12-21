@@ -1,0 +1,12 @@
+account_number,account_name,customer_id,balance,balance_date
+BM001001,Bermuda Shorts Petty Cash,BM001,100.0,20230101.0
+BM001001,bermuda Shorts Petty cash,BM001,100.0,20230101.0
+BM001001,Bermuda Shorts Petty Cash,BM001,,20230102.0
+BM001001,Bermuda Shorts Petty Cash,BM001,250.5,20230102.0
+BM001001,Bermuda Shorts Petty Cash,BM001,50.0,20230104.0
+CA002001,Canada Maple Main,CA002,50.0,20230110.0
+GB001001,Cupcake Main,GB001,100.0,20230101.0
+GB001001,Cupcake Main,GB001,100.0,20230101.0
+GB001001,Cupcake Main,GB001,50.0,20230102.0
+GB001001,cupcake main,GB001,150.0,20230107.0
+ZA001001,South African Sun DD,ZA001,-100.0,20230101.0
